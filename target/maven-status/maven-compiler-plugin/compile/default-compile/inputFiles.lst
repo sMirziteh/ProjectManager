@@ -1,0 +1,8 @@
+/home/smirziteh/DOJO/java_stack/springPlatform/beltexambb/src/main/java/com/shelby/beltexambb/models/User.java
+/home/smirziteh/DOJO/java_stack/springPlatform/beltexambb/src/main/java/com/shelby/beltexambb/repositories/TaskRepo.java
+/home/smirziteh/DOJO/java_stack/springPlatform/beltexambb/src/main/java/com/shelby/beltexambb/services/SiteService.java
+/home/smirziteh/DOJO/java_stack/springPlatform/beltexambb/src/main/java/com/shelby/beltexambb/BeltExambbApplication.java
+/home/smirziteh/DOJO/java_stack/springPlatform/beltexambb/src/main/java/com/shelby/beltexambb/controllers/SiteController.java
+/home/smirziteh/DOJO/java_stack/springPlatform/beltexambb/src/main/java/com/shelby/beltexambb/repositories/UserRepo.java
+/home/smirziteh/DOJO/java_stack/springPlatform/beltexambb/src/main/java/com/shelby/beltexambb/models/Task.java
+/home/smirziteh/DOJO/java_stack/springPlatform/beltexambb/src/main/java/com/shelby/beltexambb/validator/UserValidator.java
